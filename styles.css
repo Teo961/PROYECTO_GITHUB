@@ -20,4 +20,12 @@ body{
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+#cabecera{
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
 
