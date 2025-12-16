@@ -29,4 +29,13 @@ body{
     margin-bottom: 0;
     font-weight: bold;
 }
+#logo{
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 10px;
+}#logo:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
 
